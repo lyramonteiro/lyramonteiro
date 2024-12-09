@@ -7,5 +7,6 @@
 ⚙️ Focused on crafting **Web Components** to simplify and enhance UI experiences.  
 🧙‍♀️ Expert in **CSS** magicks and tricks.  
   
-✨ Driven by curiosity, creativity, and a love for problem-solving.  
+✨ Driven by curiosity, creativity, and oriented to problem-solving.  
 🎯 Always learning through hands-on projects.  
+🌌 Marcus Aurelius stoic philosophy helps to ground my feet while my head is up on the moon.
