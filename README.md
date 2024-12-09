@@ -1,5 +1,5 @@
 # < hello world />
-🌐 **Front-end Developer** passionate about JavaScript and Web Components.  
+🌐 **Front-end Developer** engaged with JavaScript and Web Components.  
 🚀 Front-end Developer at **LDNA S/A** | Freelancer in my spare time.  
   
 📘 Currently learning **PHP** to broaden my skill set.  
