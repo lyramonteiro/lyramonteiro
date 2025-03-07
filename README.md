@@ -1,6 +1,7 @@
 # < hello world />
 🌐 **Front-end Developer** engaged with JavaScript and Web Components.  
-🚀 Front-end Developer at **LDNA S/A** | Freelancer in my spare time.  
+🚀 Front-end Developer at **LDNA S/A**.
+🧭 Web Developer by my own at **(lyramonteiro.com)[https://lyramonteiro.com]**.  
   
 📘 Currently learning **PHP** to broaden my skill set.  
 🎓 Following the **ULivre Computer Science curriculum**, specializing in Web Development.  
@@ -12,5 +13,5 @@
 🔍 Detail-oriented: that little thing could be better, don't you think?  
 
 🌌 Grounded by Marcus Aurelius' stoic philosophy, yet always with my head in the stars.  
-💜 Happily married to a talented web developer and designer.  
+💜 Happily married with Fabi, a talented designer and web developer.  
 🎼 Imagine Dragons and Gloria Groove on my headphones.  
