@@ -1,6 +1,6 @@
 # < hello world />
 🌐 **Front-end Developer** engaged with JavaScript and Web Components.  
-🚀 Front-end Developer at **LDNA S/A**.
+🚀 Front-end Developer at **LDNA S/A**.  
 🧭 Web Developer by my own at **[lyramonteiro.com](https://lyramonteiro.com)**.  
   
 📘 Currently learning **PHP** to broaden my skill set.  
