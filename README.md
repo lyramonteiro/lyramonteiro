@@ -3,7 +3,8 @@
 🚀 Front-end Developer at **LDNA S/A**.  
 🧭 Web Developer by my own at **[lyramonteiro.com](https://lyramonteiro.com)**.  
   
-📘 Currently learning **PHP** to broaden my skill set.  
+📗 Learning hands-on **Android Development** with **Flutter**.
+📘 Back-ending with **PHP** to broaden my skill set in Web Development.  
 🎓 Following the **ULivre Computer Science curriculum**, specializing in Web Development.  
 ⚙️ Focused on crafting **Web Components** to simplify and enhance UI experiences.  
 🧙‍♀️ Expert in **CSS** magicks and tricks.  
