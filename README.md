@@ -1,18 +1,18 @@
 # < hello world />
-🌐 **Front-end Developer** engaged with JavaScript and Web Components.  
+🌐 **Developer** engaged with Web and Mobile.  
 🚀 Front-end Developer at **LDNA S/A**.  
 🧭 Web Developer by my own at **[lyramonteiro.com](https://lyramonteiro.com)**.  
   
 📗 Learning hands-on **Android Development** with **Flutter**.  
-📘 Back-ending with **PHP** to broaden my skill set in Web Development.  
+📘 **PHP 8** for the win.  
 🎓 Following the **ULivre Computer Science curriculum**, specializing in Web Development.  
-⚙️ Focused on crafting **Web Components** to simplify and enhance UI experiences.  
+⚙️ Crafting with **Alpine.js** and **Web Components** to simplify and enhance UI/UX experiences.  
 🧙‍♀️ Expert in **CSS** magicks and tricks.  
   
 ✨ Driven by curiosity, creativity, and focused on problem-solving.  
-🎯 Always learning through hands-on projects.  
 🔍 Detail-oriented: that little thing could be better, don't you think?  
+🎯 Always learning through hands-on projects.  
 
-🌌 Grounded by Marcus Aurelius' stoic philosophy, yet always with my head in the stars.  
-💜 Happily married with Fabi, a talented designer and web developer.  
+💜 Happily married with **[Fabiane](https://fabianeviegas.com)**, a talented designer and web developer.  
+🌌 A mix of absurdims and Marcus Aurelius' stoic philosophy, yet always with my head in the stars.  
 🎼 Imagine Dragons and Gloria Groove on my headphones.  
