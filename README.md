@@ -13,6 +13,5 @@
 🔍 Detail-oriented: that little thing could be better, don't you think?  
 🎯 Always learning through hands-on projects.  
 
-💜 Happily married with **[Fabiane](https://fabianeviegas.com)**, a talented designer and web developer.  
 🌌 A mix of absurdims and Marcus Aurelius' stoic philosophy, yet always with my head in the stars.  
 🎼 Imagine Dragons and Gloria Groove on my headphones.  
