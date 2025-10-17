@@ -1,10 +1,11 @@
 # < hello world />
 🌐 **Developer** engaged with Web and Mobile.  
 🚀 Front-end Developer at **LDNA S/A**.  
-🧭 Web Developer by my own at **[lyramonteiro.com](https://lyramonteiro.com)**.  
+🧭 Web Developer by my own self-taught studies.  
   
-📗 Learning hands-on **Android Development** with **Flutter**.  
-📘 **PHP 8** for the win.  
+📗 Learning hands-on **Angular 20**.
+📘 **PHP 8** for the win, but it could be Node.js.  
+🎓 **Bachelor of Philosophy** at UNINTER.
 🎓 Following the **ULivre Computer Science curriculum**, specializing in Web Development.  
 ⚙️ Crafting with **Alpine.js** and **Web Components** to simplify and enhance UI/UX experiences.  
 🧙‍♀️ Expert in **CSS** magicks and tricks.  
