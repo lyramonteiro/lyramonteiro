@@ -3,7 +3,7 @@
 🚀 Front-end Developer at **LDNA S/A**.  
 🧭 Web Developer by my own self-taught studies.  
   
-📗 Learning hands-on **Angular 20**.
+📗 Learning hands-on **Angular 20**.  
 📘 **PHP 8** for the win, but it could be Node.js.  
 🎓 **Bachelor of Philosophy** at UNINTER.  
 🎓 Following the **ULivre Computer Science curriculum**, specializing in Web Development.  
